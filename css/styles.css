@@ -49,7 +49,7 @@ section {
 }
 
 .inicio {
-    background: url('img/background.jpg') no-repeat center center;
+    background: url('../img/fondo-inicio') no-repeat center center;
     background-size: cover;
     height: 400px;
     color: white;
